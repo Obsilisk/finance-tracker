@@ -1,0 +1,9 @@
+com\financetracker\view\LoginFrame.class
+com\financetracker\util\DatabaseConnection.class
+com\financetracker\view\MainFrame.class
+com\financetracker\controller\UserController.class
+com\financetracker\controller\TransactionController.class
+com\financetracker\view\TransactionHistoryPanel.class
+com\financetracker\models\Transaction.class
+com\financetracker\models\User.class
+com\financetracker\view\AddTransactionPanel.class
