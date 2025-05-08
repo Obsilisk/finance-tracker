@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/expense_tracker?useSSL=false&allowPublicKeyRetrieval=true";
-    private static final String USER = "root";      // Your MySQL username
-    private static final String PASSWORD = "root";  // Your MySQL password
+    private static final String USER = "root";      
+    private static final String PASSWORD = "root";  
 
     public static Connection getConnection() throws SQLException {
         try {
